@@ -33,10 +33,10 @@ features.csv
 
 This file contains additional data related to the store, department, and regional activity for the given dates. It contains the following fields:
 
-Store - the store number
-Date - the week
-Temperature - average temperature in the region
-Fuel_Price - cost of fuel in the region
+1. Store - the store number
+2. Date - the week
+3. Temperature - average temperature in the region
+4. Fuel_Price - cost of fuel in the region
 MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time. Any missing value is marked with an NA.
 CPI - the consumer price index
 Unemployment - the unemployment rate
